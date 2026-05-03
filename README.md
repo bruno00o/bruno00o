@@ -1,3 +1,6 @@
-### Hi 👋 I'm Bruno Seilliebert
+# Hi, I'm Bruno 👋
 
-- 👨‍🎓 I'm studying CS at Université Gustave Eiffel, France
+- 💼 Software engineer at SFR (Paris, France)
+- 🎓 Master's degree in Software and Data Engineering, Université Gustave Eiffel (Paris, France)
+
+I like building things end-to-end: from Kubernetes clusters and data pipelines to frontends and embedded firmware.
