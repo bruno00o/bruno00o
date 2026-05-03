@@ -1,4 +1,4 @@
-# Hi, I'm Bruno 👋
+### Hi, I'm Bruno 👋
 
 - 💼 Software engineer at SFR (Paris, France)
 - 🎓 Master's degree in Software and Data Engineering, Université Gustave Eiffel (Paris, France)
